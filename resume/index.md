@@ -56,7 +56,27 @@ nav-sections:
   * Bachelor in computer science: programming
 
 ### Work experience {#work}
-* [Telenor Digital][td] (2015-present)
+* [Neat][neat] (2019-present)
+  * Co-founder / Head of Software Engineer
+  * Areas of interest; Android
+
+<br/>
+
+* [Huddly][huddly] (2018-2019)
+  * R&D Software Engineer
+  * Areas of interest; embedded and USB
+
+<br/>
+
+* [Teston][teston] (2017-2018)
+  * Software/Product Engineer
+    * Bringing a usertesting platform to market.
+  * Teston was later acquired by [usertesting.com][teston]
+  * Areas of interest including golang, docker/kubernetes (GCP), Vue.js using getUserMedia and MediaRecorder APIs.
+
+<br/>
+
+* [Telenor Digital][td] (2015-2017)
   * R&D Software Engineer
     * Exploratory engineering in the CTO office with focus on WebRTC and related technologies.
     * Hacking on open source software
@@ -108,4 +128,6 @@ nav-sections:
 [pexip]: //www.pexip.com
 [cisco]: //www.cisco.com
 [detec]: //www.detec.no
-
+[teston]: //usertesting.com
+[huddly]: //huddly.com
+[neat]: //neat.no
